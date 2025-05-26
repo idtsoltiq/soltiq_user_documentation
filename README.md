@@ -7,3 +7,9 @@ MkDocs + Material documentation project to generate user manual for the SOLTIQ C
 ```shell
  $ mkdocs serve 
 ```
+
+## Deploy website on github pages
+
+```shell
+$ mkdocs gh-deploy --clean --force
+```

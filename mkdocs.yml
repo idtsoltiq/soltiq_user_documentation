@@ -1,4 +1,5 @@
 site_name: User manual
+site_url: https://idtsoltiq.github.io/soltiq_user_documentation/
 copyright: "IDT Technology d.o.o. © 2025"
 
 theme:
@@ -35,10 +36,12 @@ plugins:
       languages:
         - locale: en
           name: "🇬🇧 English"
+          link: /soltiq_user_documentation/
           default: true
           build: true
         - locale: hr
           name: "🇭🇷 Hrvatski"
+          link: /soltiq_user_documentation/hr/
           build: true
 
       # nav_translations:
