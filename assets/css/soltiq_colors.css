@@ -1,0 +1,53 @@
+/* Light + Dark mode */
+:root,
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+  /* Top navigation bar (pozadina) */
+  --md-primary-bg-color:        #ffffff;
+
+  /* Tekst i ikone u navbaru */
+  --md-primary-fg-color:        #4184ff;
+
+  /* Hover/aktivni tekst */
+  --md-primary-fg-color--light: #bd9c9c;
+
+  /* Akcent boja: za linkove, tipke, fokus itd. */
+  --md-accent-fg-color:         #00b5fd;
+}
+
+/* light/dark mode tipka (sun/moon) skroz desno                    */
+.md-header__option[data-md-component="palette"] {
+  order: 99;                 /* već postoji – ostaje isto          */
+  /*margin-left: .2rem; */
+}
+
+/* jezični gumb – odmah lijevo od palete, dakle iza search‑a */
+.md-header__option:not([data-md-component]) {
+  order: 98;                 /* između search (0) i palette (99)   */
+  margin-left: .8rem;        /* malo razmaka od search‑polja       */
+}
+/* Ukloni naslov (site_name) iz bočnog menija */
+.md-nav__title {
+  display: none;
+}
+
+/* ① Sakrij originalni SVG jezika (vidljivo u svim jezicima) */
+.md-header__button.md-icon[aria-label*="Select language"] > svg,
+.md-header__button.md-icon[aria-label*="Odabir jezika"]   > svg {
+  display: none;
+}
+
+/* ② Pokaži zastavicu ovisno o <html lang="…"> */
+html[lang="en"] .md-header__button.md-icon[aria-label*="language"]::before,
+html[lang="en"] .md-header__button.md-icon[aria-label*="jezika"]::before {
+  content: "🇬🇧";
+  font-size: 25px;
+  line-height: 1;
+}
+
+html[lang="hr"] .md-header__button.md-icon[aria-label*="language"]::before,
+html[lang="hr"] .md-header__button.md-icon[aria-label*="jezika"]::before {
+  content: "🇭🇷";
+  font-size: 25px;
+  line-height: 1;
+}
