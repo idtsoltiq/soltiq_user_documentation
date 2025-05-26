@@ -36,12 +36,12 @@ plugins:
       languages:
         - locale: en
           name: "🇬🇧 English"
-          link: ""
+          #link: "" # Don't add it so the language switching works...
           default: true
           build: true
         - locale: hr
           name: "🇭🇷 Hrvatski"
-          link: hr/
+          link: /hr/
           build: true
 
       # nav_translations:
