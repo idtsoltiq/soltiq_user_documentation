@@ -36,12 +36,12 @@ plugins:
       languages:
         - locale: en
           name: "🇬🇧 English"
-          link: /soltiq_user_documentation/
+          link: ""
           default: true
           build: true
         - locale: hr
           name: "🇭🇷 Hrvatski"
-          link: /soltiq_user_documentation/hr/
+          link: hr/
           build: true
 
       # nav_translations:
