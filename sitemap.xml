@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>None00_index/</loc>
+        <loc>None./</loc>
         <lastmod>2025-05-26</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="None00_index/"/>
-        <xhtml:link rel="alternate" hreflang="hr" href="Nonehr/00_index/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="hr" href="Nonehr/"/>
     </url>
     <url>
         <loc>None01_safety/</loc>
@@ -92,11 +92,11 @@
         <xhtml:link rel="alternate" hreflang="hr" href="Nonehr/12_appendices/"/>
     </url>
     <url>
-        <loc>Nonehr/00_index/</loc>
+        <loc>Nonehr/</loc>
         <lastmod>2025-05-26</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="hr" href="Nonehr/00_index/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="None00_index/"/>
+        <xhtml:link rel="alternate" hreflang="hr" href="Nonehr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
     </url>
     <url>
         <loc>Nonehr/01_safety/</loc>
