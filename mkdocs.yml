@@ -1,0 +1,53 @@
+site_name: User manual
+copyright: "IDT Technology d.o.o. © 2025"
+
+theme:
+  name: material
+  logo: assets/logo.svg
+  palette:
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+extra_css:
+  - assets/css/soltiq_colors.css
+
+extra_javascript:
+  - assets/js/set-site-name.js
+
+plugins:
+  - macros
+  - search
+
+  - i18n:
+      # default_language: en
+      docs_structure: folder
+      reconfigure_material: true
+      languages:
+        - locale: en
+          name: "🇬🇧 English"
+          default: true
+          build: true
+        - locale: hr
+          name: "🇭🇷 Hrvatski"
+          build: true
+
+      # nav_translations:
+      #   en:
+      #     - Home: index.md
+      #   hr:
+      #     - Početna: index.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
