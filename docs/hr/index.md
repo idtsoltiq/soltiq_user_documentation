@@ -8,5 +8,7 @@ title: Dobrodošli
 
     Ova stranica je trenutno u izradi te Vas molimo za strpljenje.
 
-![Under construction banner](assets/UnderConstructionBanner.png)
+U lijevom izborniku odaberite željeno poglavlje. Informacije možete također pronaći pomoću funkcije „Pretraži”.
+
+Za sva pitanja i dodatne upute obratite se SOLTIQ timu putem e-mail adrese: [info@soltiq.eu](mailto:info@soltiq.eu)
 
