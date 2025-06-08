@@ -2,184 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://idtsoltiq.github.io/soltiq_user_documentation/</loc>
-        <lastmod>2025-05-26</lastmod>
+        <lastmod>2025-06-08</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/"/>
         <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/"/>
     </url>
     <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/01_safety/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/01_safety/"/>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/01_safety/"/>
-    </url>
-    <url>
         <loc>https://idtsoltiq.github.io/soltiq_user_documentation/02_product-overview/</loc>
-        <lastmod>2025-05-26</lastmod>
+        <lastmod>2025-06-08</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/02_product-overview/"/>
         <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/02_product-overview/"/>
     </url>
     <url>
         <loc>https://idtsoltiq.github.io/soltiq_user_documentation/03_installation/</loc>
-        <lastmod>2025-05-26</lastmod>
+        <lastmod>2025-06-08</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/03_installation/"/>
         <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/03_installation/"/>
     </url>
     <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/04_commissioning/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/04_commissioning/"/>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/04_commissioning/"/>
-    </url>
-    <url>
         <loc>https://idtsoltiq.github.io/soltiq_user_documentation/05_operation/</loc>
-        <lastmod>2025-05-26</lastmod>
+        <lastmod>2025-06-08</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/05_operation/"/>
         <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/05_operation/"/>
     </url>
     <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/06_maintenance/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/06_maintenance/"/>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/06_maintenance/"/>
-    </url>
-    <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/07_troubleshooting/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/07_troubleshooting/"/>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/07_troubleshooting/"/>
-    </url>
-    <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/08_technical-specs/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/08_technical-specs/"/>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/08_technical-specs/"/>
-    </url>
-    <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/09_compliance/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/09_compliance/"/>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/09_compliance/"/>
-    </url>
-    <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/10_warranty-support/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/10_warranty-support/"/>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/10_warranty-support/"/>
-    </url>
-    <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/11_glossary/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/11_glossary/"/>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/11_glossary/"/>
-    </url>
-    <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/12_appendices/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/12_appendices/"/>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/12_appendices/"/>
-    </url>
-    <url>
         <loc>https://idtsoltiq.github.io/soltiq_user_documentation/hr/</loc>
-        <lastmod>2025-05-26</lastmod>
+        <lastmod>2025-06-08</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/"/>
     </url>
     <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/hr/01_safety/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/01_safety/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/01_safety/"/>
-    </url>
-    <url>
         <loc>https://idtsoltiq.github.io/soltiq_user_documentation/hr/02_product-overview/</loc>
-        <lastmod>2025-05-26</lastmod>
+        <lastmod>2025-06-08</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/02_product-overview/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/02_product-overview/"/>
     </url>
     <url>
         <loc>https://idtsoltiq.github.io/soltiq_user_documentation/hr/03_installation/</loc>
-        <lastmod>2025-05-26</lastmod>
+        <lastmod>2025-06-08</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/03_installation/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/03_installation/"/>
     </url>
     <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/hr/04_commissioning/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/04_commissioning/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/04_commissioning/"/>
-    </url>
-    <url>
         <loc>https://idtsoltiq.github.io/soltiq_user_documentation/hr/05_operation/</loc>
-        <lastmod>2025-05-26</lastmod>
+        <lastmod>2025-06-08</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/05_operation/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/05_operation/"/>
-    </url>
-    <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/hr/06_maintenance/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/06_maintenance/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/06_maintenance/"/>
-    </url>
-    <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/hr/07_troubleshooting/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/07_troubleshooting/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/07_troubleshooting/"/>
-    </url>
-    <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/hr/08_technical-specs/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/08_technical-specs/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/08_technical-specs/"/>
-    </url>
-    <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/hr/09_compliance/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/09_compliance/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/09_compliance/"/>
-    </url>
-    <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/hr/10_warranty-support/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/10_warranty-support/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/10_warranty-support/"/>
-    </url>
-    <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/hr/11_glossary/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/11_glossary/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/11_glossary/"/>
-    </url>
-    <url>
-        <loc>https://idtsoltiq.github.io/soltiq_user_documentation/hr/12_appendices/</loc>
-        <lastmod>2025-05-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="hr" href="https://idtsoltiq.github.io/soltiq_user_documentation/hr/12_appendices/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://idtsoltiq.github.io/soltiq_user_documentation/12_appendices/"/>
     </url>
 </urlset>
