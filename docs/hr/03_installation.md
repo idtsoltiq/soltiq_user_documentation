@@ -34,7 +34,7 @@ Podešavanje visine i niveliranje uporišnih nogica vrši se na licu mjesta, ovi
 
 ## **Inicialno paljenje i podizanje strehe**
 
-### **Pregled rauvodnih kutija**
+### **Pregled razvodnih kutija**
 
 Kontrolna elektronika, kao i sigurnosni uređaji, smješteni su u "totemu" punionice, kao što je prikazano na slici:
 
